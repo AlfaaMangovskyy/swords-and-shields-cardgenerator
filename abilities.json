@@ -1,0 +1,70 @@
+{
+    "ostry_miecz": {
+        "name": "Ostry Miecz",
+        "desc": "Ruchy kategorii Miecza zadają\no 1 Punkt Obrażeń więcej."
+    },
+    "ostra_strzala": {
+        "name": "Ostra Strzała",
+        "desc": "Ruchy kategorii Łuku zadają\no 1 Punkt Obrażeń więcej."
+    },
+    "ostra_lanca": {
+        "name": "Ostra Lanca",
+        "desc": "Ruchy kategorii Lancy zadają\no 1 Punkt Obrażeń więcej."
+    },
+    "odrzut": {
+        "name": "Odrzut",
+        "desc": "Ruchy kategorii Lancy\nodrzucają wrogów o 1 pole w\nkierunku uderzenia ruchu."
+    },
+    "as_precyzji": {
+        "name": "As Precyzji",
+        "desc": "Ruchy kategorii Łuku mają o 1\nPunkt Celności więcej."
+    },
+    "tarcza": {
+        "name": "Tarcza",
+        "desc": "Ruchy kategorii Miecza, Łuku\ni Lancy wycelowane w tego\nwojownika zadają o 1 Punkt\nObrażeń mniej."
+    },
+    "magiczna_aura": {
+        "name": "Magiczna Aura",
+        "desc": "Ten wojownik jest odporny na\nefekty specjalne ruchów, przedmiotów i\numiejętności przeciwników."
+    },
+    "pioropusz_triumfu": {
+        "name": "Pióropusz Triumfu",
+        "desc": "Ten wojownik otrzymuje 1\nKartę Mocy za każdym razem,\ngdy wyeliminuje przeciwnika."
+    },
+    "inwersja": {
+        "name": "Inwersja",
+        "desc": "Ten wojownik zamiast\notrzymywać Karty Słabości,\notrzymuje Karty Mocy i\nodwrotnie."
+    },
+    "adrenalina": {
+        "name": "Adrenalina",
+        "desc": "Gdy ten wojownik zostaje\nwysłany na pole bitwy,\njednorazowo otrzymuje 1\nKartę Mocy."
+    },
+    "wielostrzalowiec": {
+        "name": "Wielostrzałowiec",
+        "desc": "Ruchy, które trafiają wiele\nprzeciwników naraz, zadają\no 1 Punkt Obrażeń więcej."
+    },
+    "malarz": {
+        "name": "Malarz",
+        "desc": "Ten wojownik może kraść\nKarty Ruchu od przeciwników\ni może być wysłany do walki\nbez 2 Kart Ruchu."
+    },
+    "mimika": {
+        "name": "Mimika",
+        "desc": "Ten wojownik może wymienić\nwszystkie swoje Karty Ruchu i\nKarty Statusu z przeciwnikiem,\nktórego wyeliminował."
+    },
+    "potega_wody": {
+        "name": "Potęga Wody",
+        "desc": "Ruchy kategorii Wody zadają\no 1 Punkt Obrażeń więcej."
+    },
+    "potega_ognia": {
+        "name": "Potęga Ognia",
+        "desc": "Ruchy kategorii Ognia zadają\no 1 Punkt Obrażeń więcej."
+    },
+    "potega_wiatru": {
+        "name": "Potęga Wiatru",
+        "desc": "Ruchy kategorii Wiatru zadają\no 1 Punkt Obrażeń więcej."
+    },
+    "potega_ziemii": {
+        "name": "Potęga Ziemii",
+        "desc": "Ruchy kategorii Ziemii zadają\no 1 Punkt Obrażeń więcej."
+    }
+}

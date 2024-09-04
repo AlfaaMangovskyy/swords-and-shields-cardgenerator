@@ -1,0 +1,49 @@
+Poz. Rekr.,Nazwa,Kategoria,Obrażenia,Zasięg,,,Opis,Mechanika
+I,Żelazne Ostrze,Miecz,3,1,,,"Wojownik atakuje przeciwnika ostrym, żelaznym mieczem.",-
+I,Ryzykowna Szarża,Miecz,5,1,,,"Wojownik ryzykuje swoje życie, atakując przeciwnika mieczem z pełną mocą.",Wojownik otrzymuje 2 Punkty Obrażeń Zwrotnych.
+II,Ostrze Odwrotu,Miecz,2,1,,,"Wojownik dźga przeciwnika mieczem i uskakuje, wycofując się z walki.",Po użyciu wycofaj wojownika do koszar i zastąp go dowolnym innym wojownikiem.
+II,Zatruty Nóż,Miecz,2,1,,,Wojownik dźga przeciwnika ostrym nożem pokrytym trującą substancją.,2/6 szansy na Zatrucie przeciwnika.
+II,Cięcie Poprzeczne,Miecz,2,1,1,,"Wojownik wykonuje cięcie poprzeczne swoim mieczem, atakując obu przeciwników.",-
+III,Zaklęte Ostrze,Miecz,3,1,,,Wojownik atakuje przeciwnika ostrym mieczem przeszytym magiczną mocą.,Przywróć 1 Punkt Życia wojownikowi.
+III,Taniec Mieczy,Miecz,-,,,,"Wojownik zagrzewa się do walki, wykonując ruchy swoim mieczem.","Jeżeli wojownik ma mniej niż 2 Karty Mocy, wręcz mu 1 Kartę Mocy."
+IV,Burza Sztyletów,Miecz,3,1,1,,Wojownik rzuca w obu przeciwników ostrymi sztyletami z szlachetnej stali.,-
+,,,,,,,,
+I,Strzała,Łuk,3,1,,,"Wojownik atakuje przeciwnika, wystrzeliwywując w niego strzałę.",-
+I,Podwójna Kusza,Łuk,1,1,1,,Wojownik wystrzeliwywuje dwie strzały w stronę obu przeciwników.,-
+II,Zatruta Strzała,Łuk,2,1,,,Wojownik wystrzeliwywuje w przeciwnika strzałę pokrytą trującą substancją.,2/6 szansy na Zatrucie przeciwnika.
+II,Paraliżująca Strzała,Łuk,2,1,,,Wojownik wystrzeliwywuje w przeciwnika strzałę pokrytą paraliżującą substancją.,2/6 szansy na Sparaliżowanie przeciwnika.
+II,Płonącą Strzała,Łuk,2,1,,,Wojownik wystrzeliwywuje w przeciwnika strzałę pokrytą płonącą smołą.,2/6 szansy na Poparzenie przeciwnika.
+III,Zaklęta Strzała,Łuk,3,1,,,"Wojownik atakuje przeciwnika, wystrzeliwywując strzałę przeszytą magiczną mocą.",Przywróć 1 Punkt Życia wojownikowi.
+III,Kusza,Łuk,3,1,,,"Wojownik ładuję kuszę, a następnie wystrzeliwywuje strzałę w stronę przeciwnika.",Jeżeli wojownik nie ma Kart Mocy: wręcz mu 1 Kartę Mocy i nie zadawaj obrażeń.; W przeciwnym razie: Zadaj obrażenia i odbierz wojownikowi 1 Kartę Mocy.
+,,,,,,,,
+I,Szarża,Lanca,3,1,,,"Wojownik atakuje przeciwnika ostrą, żelazną kopią.",-
+I,Natarcie z Rozpędu,Lanca,1,1,,,Wojownik atakuje przeciwnika lancą z wielkim rozpędem.,"Jeżeli wojownik nie ma Kart Szybkości, wręcz mu 1 Kartę Szybkości."
+II,Podbicie,Lanca,1,1,,,"Wojownik podbija przeciwnika ostrą kopią, wybijając go z Pola Bitwy.",Po użyciu wycofaj przeciwnika do koszar.
+II,Zatruta Kopia,Lanca,2,1,,,Wojownik atakuje przeciwnika lancą pokrytą trującą substancją.,2/6 szansy na Zatrucie przeciwnika.
+II,Paralizująca Kopia,Lanca,2,1,,,Wojownik atakuje przeciwnika lancą pokrytą paraliżującą substancją.,2/6 szansy na Sparaliżowanie przeciwnika.
+II,Płonąca Kopia,Lanca,2,1,,,Wojownik atakuje przeciwnika lancą pokrytą płonącą smołą.,2/6 szansy na Poparzenie przeciwnika.
+III,Podwójne Natarcie,Lanca,2,1,1,,"Wojownik atakuje obu przeciwników, rzucając w nich rozpędzonymi kopiami.",-
+III,Nokaut,Lanca,2,1,,,"Wojownik nokautuje przeciwnika, paraliżując go.",Po użyciu Sparaliżuj przeciwnika.
+IV,Nokaut Obrotowy,Lanca,1,1,1,,"Wojownik obraca swoją kopią, paraliżując wszystkich przeciwników.",Po użyciu Sparaliżuj obu przeciwników.
+,,,,,,,,
+,,,,,,,,
+IV,Fontanna,Woda,3,1,,,Wojownik posyła w stronę przeciwnika kolumnę wody.,-
+IV,Fala,Woda,2,1,1,1,Wojownik tworzy wielką falę zalewającą całe pole bitwy.,Po użyciu na Polu Bitwy zaczyna padać Deszcz.
+V,Gejzer,Woda,3,1,,,Wojownik posyła w stronę przeciwnika kolumnę wrzącej wody z podziemnych źródeł.,3/6 szansy na Poparzenie przeciwnika.
+V,Strumień Ciśnieniowy,Woda,2,1,,,Wojownik przeszywa przeciwnika strumieniem wody pod wysokim ciśnieniem.,2/6 szansy na Sparaliżowanie przeciwnika.
+,,,,,,,,
+IV,Płomyk,Ogień,3,1,,,Wojownik wysyła płonący płomyk w stronę przeciwnika.,-
+IV,Pożoga,Ogień,2,1,1,1,"Wojownik atakuje wszystko wokół, tworząc pożar na Polu Bitwy.",Po użyciu Pole Bitwy Płonie.
+V,Erupcja,Ogień,2,1,1,,"Wojownik tworzy wysoką kolumnę magmy, zalewając nią obu przeciwników.",3/6 szansy na Poparzenie przeciwnika.
+V,Taniec Ogników,Ogień,-,1,,,Wojownik wysyła w stronę przeciwnika trzy wirujące płomyki.,Po użyciu Poparz przeciwnika.
+V,Fala Ciepła,Ogień,2,1,1,1,Wojownik generuje falę gorącego powietrza.,2/6 szansy na Poparzenie przeciwnika.
+,,,,,,,,
+IV,Wstrząsy,Ziemia,3,1,,,Wojownik wysyła falę uderzeniową załamującą ziemię pod przeciwnikiem.,-
+IV,Trzęsienie Ziemii,Ziemia,2,1,1,1,Wojownik porusza płytami tektonicznymi i wywołuje trzęsienie ziemii.,2/6 szansy na osłabienie Obrony przeciwnika o 1 stopień.
+V,Burza Piaskowa,Ziemia,2,1,1,,Wojownik posyła chmurę ostrego piasku i kamieni w stronę przeciwników.,-
+V,Gorące Piaski,Ziemia,1,1,1,,Wojownik posyła chmurę gorącego piasku w stronę przeciwników.,2/6 szansy na Oparzenie przeciwnika.
+V,Załamanie,Ziemia,7,1,,,Wojownik załamuje ziemię pod sobą i przeciwnikiem.,Wojownik po użyciu tego ruchu zostaje wyeliminowany.
+,,,,,,,,
+IV,Wichura,Wiatr,3,1,,,Wojownik posyła trąbę mocnego powietrza w stronę przeciwnika.,
+IV,Huragan,Wiatr,2,1,1,1,,
+V,Wiatr Ogonowy,Wiatr,-,,,,"Wojownik posyła wiatr w stronę swojego partnera, przyspieszając jego ruchy.",Po użyciu dodaj +1 Priorytetu do ruchu partnera na czas tej tury.

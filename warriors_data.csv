@@ -1,0 +1,25 @@
+L. K.,Wojownik,Poz. Rekr.,P. Ż.,Umiejętność,Ruchy,
+5,Wojownik,I,3,-,Miecz,Miecz
+5,Łucznik,I,3,-,Łuk,Łuk
+5,Rycerz,I,4,-,Miecz | Lanca,Miecz | Lanca
+5,Barbarzyńca,I,4,-,Miecz | Łuk,Miecz | Łuk
+5,Wojownik,II,4,Ostry Miecz,Miecz,Miecz
+5,Łucznik,II,4,Ostra Strzała,Łuk,Łuk
+6,Rycerz,II,5,Odrzut,Miecz | Lanca,Miecz | Lanca
+2,Barbarzyńca,II,5,Ostry Miecz,Miecz | Łuk,Miecz | Łuk
+2,Barbarzyńca,II,5,Ostra Strzała,Miecz | Łuk,Miecz | Łuk
+4,Husarz,III,6,Pióropusz Triumfu,Miecz | Lanca,Miecz | Lanca
+4,Wojownik,III,5,Adrenalina,Miecz,Miecz
+3,Łucznik,III,5,Wielostrzałowiec,Łuk,Łuk
+3,Łucznik,III,5,As Precyzji,Łuk,Łuk
+2,Rycerz,III,6,Ostry Miecz,Miecz | Lanca,Miecz | Lanca
+2,Rycerz,III,6,Ostra Lanca,Miecz | Lanca,Miecz | Lanca
+2,Rycerz,III,6,Tarcza,Miecz | Lanca,Miecz | Lanca
+4,Mag Wody,IV,6,Potęga Wody,Woda,Woda | Lanca
+4,Mag Ognia,IV,6,Potęga Ognia,Ogień,Ogień | Lanca
+4,Mag Ziemii,IV,6,Potęga Ziemii,Ziemia,Ziemia | Lanca
+4,Mag Wiatru,IV,6,Potęga Wiatru,Wiatr,Wiatr | Lanca
+4,Duch Husarza,IV,7,Inwersja,Miecz | Lanca,Miecz | Lanca
+2,Mag Wszechmocny,V,7,Magiczna Aura,Woda | Ogień | Ziemia | Wiatr,Woda | Ogień | Ziemia | Wiatr
+2,Malarz,V,5,Malarz,Uniwersalny,Uniwersalny
+2,Aktor,V,5,Mimika,Miecz,Miecz

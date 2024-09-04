@@ -1,0 +1,34 @@
+{
+    "Miecz": [
+        {
+            "name": "Ostry Miecz",
+            "dmg": 2,
+            "range": 0,
+            "level": 1,
+            "desc": "",
+            "mech": ""
+        },
+        {
+            "name": "Ostrze Furii",
+            "dmg": 1,
+            "range": 0,
+            "level": 1,
+            "desc": "",
+            "mech": "Zadaje dodatkowe 2 Punkty\nObrażeń, jeżeli wojownik ma 2\nlub mniej Punkty Życia."
+        },
+        {
+            "name": "Ostrze Obrotowe",
+            "dmg": 1,
+            "range": 2,
+            "level": 1,
+            "desc": "Wojownik",
+            "mech": ""
+        }
+    ],
+    "Luk": [],
+    "Lanca": [],
+    "Ogien": [],
+    "Woda": [],
+    "Ziemia": [],
+    "Wiatr": []
+}

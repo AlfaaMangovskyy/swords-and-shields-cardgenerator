@@ -1,0 +1,375 @@
+{
+	"wojownik": {
+		"cards": 5,
+		"name": "Wojownik",
+		"recruit": 1,
+		"hp": 3,
+		"ability": null,
+		"moveset": [
+			[
+				"Miecz"
+			],
+			[
+				"Miecz"
+			]
+		]
+	},
+	"łucznik": {
+		"cards": 5,
+		"name": "Łucznik",
+		"recruit": 1,
+		"hp": 3,
+		"ability": null,
+		"moveset": [
+			[
+				"Luk"
+			],
+			[
+				"Luk"
+			]
+		]
+	},
+	"rycerz": {
+		"cards": 5,
+		"name": "Rycerz",
+		"recruit": 1,
+		"hp": 4,
+		"ability": null,
+		"moveset": [
+			[
+				"Miecz",
+				"Lanca"
+			],
+			[
+				"Miecz",
+				"Lanca"
+			]
+		]
+	},
+	"barbarzyńca": {
+		"cards": 5,
+		"name": "Barbarzyńca",
+		"recruit": 1,
+		"hp": 4,
+		"ability": null,
+		"moveset": [
+			[
+				"Miecz",
+				"Luk"
+			],
+			[
+				"Miecz",
+				"Luk"
+			]
+		]
+	},
+	"wojownik_2": {
+		"cards": 5,
+		"name": "Wojownik",
+		"recruit": 2,
+		"hp": 4,
+		"ability": "ostry_miecz",
+		"moveset": [
+			[
+				"Miecz"
+			],
+			[
+				"Miecz"
+			]
+		]
+	},
+	"łucznik_2": {
+		"cards": 5,
+		"name": "Łucznik",
+		"recruit": 2,
+		"hp": 4,
+		"ability": "ostra_strzala",
+		"moveset": [
+			[
+				"Luk"
+			],
+			[
+				"Luk"
+			]
+		]
+	},
+	"rycerz_2": {
+		"cards": 6,
+		"name": "Rycerz",
+		"recruit": 2,
+		"hp": 5,
+		"ability": "odrzut",
+		"moveset": [
+			[
+				"Miecz",
+				"Lanca"
+			],
+			[
+				"Miecz",
+				"Lanca"
+			]
+		]
+	},
+	"barbarzyńca_2": {
+		"cards": 2,
+		"name": "Barbarzyńca",
+		"recruit": 2,
+		"hp": 5,
+		"ability": "ostry_miecz",
+		"moveset": [
+			[
+				"Miecz",
+				"Luk"
+			],
+			[
+				"Miecz",
+				"Luk"
+			]
+		]
+	},
+	"barbarzyńca_2_2": {
+		"cards": 2,
+		"name": "Barbarzyńca",
+		"recruit": 2,
+		"hp": 5,
+		"ability": "ostra_strzala",
+		"moveset": [
+			[
+				"Miecz",
+				"Luk"
+			],
+			[
+				"Miecz",
+				"Luk"
+			]
+		]
+	},
+	"husarz": {
+		"cards": 4,
+		"name": "Husarz",
+		"recruit": 3,
+		"hp": 6,
+		"ability": "pioropusz_triumfu",
+		"moveset": [
+			[
+				"Miecz",
+				"Lanca"
+			],
+			[
+				"Miecz",
+				"Lanca"
+			]
+		]
+	},
+	"wojownik_3": {
+		"cards": 4,
+		"name": "Wojownik",
+		"recruit": 3,
+		"hp": 5,
+		"ability": "adrenalina",
+		"moveset": [
+			[
+				"Miecz"
+			],
+			[
+				"Miecz"
+			]
+		]
+	},
+	"łucznik_3": {
+		"cards": 3,
+		"name": "Łucznik",
+		"recruit": 3,
+		"hp": 5,
+		"ability": "wielostrzalowiec",
+		"moveset": [
+			[
+				"Luk"
+			],
+			[
+				"Luk"
+			]
+		]
+	},
+	"łucznik_3_2": {
+		"cards": 3,
+		"name": "Łucznik",
+		"recruit": 3,
+		"hp": 5,
+		"ability": "as_precyzji",
+		"moveset": [
+			[
+				"Luk"
+			],
+			[
+				"Luk"
+			]
+		]
+	},
+	"rycerz_3": {
+		"cards": 2,
+		"name": "Rycerz",
+		"recruit": 3,
+		"hp": 6,
+		"ability": "ostry_miecz",
+		"moveset": [
+			[
+				"Miecz",
+				"Lanca"
+			],
+			[
+				"Miecz",
+				"Lanca"
+			]
+		]
+	},
+	"rycerz_3_2": {
+		"cards": 2,
+		"name": "Rycerz",
+		"recruit": 3,
+		"hp": 6,
+		"ability": "tarcza",
+		"moveset": [
+			[
+				"Miecz",
+				"Lanca"
+			],
+			[
+				"Miecz",
+				"Lanca"
+			]
+		]
+	},
+	"mag_wody": {
+		"cards": 4,
+		"name": "Mag Wody",
+		"recruit": 4,
+		"hp": 6,
+		"ability": "potega_wody",
+		"moveset": [
+			[
+				"Woda"
+			],
+			[
+				"Woda",
+				"Lanca"
+			]
+		]
+	},
+	"mag_ognia": {
+		"cards": 4,
+		"name": "Mag Ognia",
+		"recruit": 4,
+		"hp": 6,
+		"ability": "potega_ognia",
+		"moveset": [
+			[
+				"Ogien"
+			],
+			[
+				"Ogien",
+				"Lanca"
+			]
+		]
+	},
+	"mag_ziemii": {
+		"cards": 4,
+		"name": "Mag Ziemii",
+		"recruit": 4,
+		"hp": 6,
+		"ability": "potega_ziemii",
+		"moveset": [
+			[
+				"Ziemia"
+			],
+			[
+				"Ziemia",
+				"Lanca"
+			]
+		]
+	},
+	"mag_wiatru": {
+		"cards": 4,
+		"name": "Mag Wiatru",
+		"recruit": 4,
+		"hp": 6,
+		"ability": "potega_wiatru",
+		"moveset": [
+			[
+				"Wiatr"
+			],
+			[
+				"Wiatr",
+				"Lanca"
+			]
+		]
+	},
+	"duch_husarza": {
+		"cards": 4,
+		"name": "Duch Husarza",
+		"recruit": 4,
+		"hp": 6,
+		"ability": "inwersja",
+		"moveset": [
+			[
+				"Miecz",
+				"Lanca"
+			],
+			[
+				"Miecz",
+				"Lanca"
+			]
+		]
+	},
+	"mag_wszechmocny": {
+		"cards": 2,
+		"name": "Mag Wszechmocny",
+		"recruit": 5,
+		"hp": 7,
+		"ability": "magiczna_aura",
+		"moveset": [
+			[
+				"Woda",
+				"Ogien",
+				"Ziemia",
+				"Wiatr"
+			],
+			[
+				"Woda",
+				"Ogien",
+				"Ziemia",
+				"Wiatr"
+			]
+		]
+	},
+	"malarz": {
+		"cards": 2,
+		"name": "Malarz",
+		"recruit": 5,
+		"hp": 5,
+		"ability": "malarz",
+		"moveset": [
+			[
+				"Uniwersalny"
+			],
+			[
+				"Uniwersalny"
+			]
+		]
+	},
+	"aktor": {
+		"cards": 2,
+		"name": "Aktor",
+		"recruit": 5,
+		"hp": 5,
+		"ability": "mimika",
+		"moveset": [
+			[
+				"Miecz"
+			],
+			[
+				"Miecz"
+			]
+		]
+	}
+}
