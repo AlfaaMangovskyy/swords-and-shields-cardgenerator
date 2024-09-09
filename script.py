@@ -42,6 +42,19 @@ def make_card(warrior_data : dict, warrior_id : str) -> None:
             horizontal = 0
             vertical += 1
 
+    if not "speed" in warrior_data.keys():
+        warrior_data["speed"] = 5
+
+    speed_icons_width = 32 * warrior_data["speed"] + 10 * (warrior_data["speed"] - 1)
+    offset = 0
+    for i in range(warrior_data["speed"]):
+        icon_x = round(620 / 2 - speed_icons_width / 2) + offset
+        icon_y = 700 - 10 - 32
+
+        result_card.paste(Image.open(f"data/speed.png"), (icon_x, icon_y))
+
+        offset += 42
+
     row = 0
     for move_data in warrior_data["moveset"]:
         if isinstance(move_data, list):
@@ -202,5 +215,7 @@ for warrior_id in warriors.keys():
 
 for page in make_print_pages():
     create_print_page(page)
+
+# create_print_page(["duch_husarza"])
 
 # create_print_page(["husarz", "mag_wody"]) #

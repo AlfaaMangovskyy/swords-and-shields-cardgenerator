@@ -5,6 +5,7 @@
 		"recruit": 1,
 		"hp": 3,
 		"ability": null,
+		"speed": 3,
 		"moveset": [
 			[
 				"Miecz"
@@ -20,6 +21,7 @@
 		"recruit": 1,
 		"hp": 3,
 		"ability": null,
+		"speed": 3,
 		"moveset": [
 			[
 				"Luk"
@@ -35,6 +37,7 @@
 		"recruit": 1,
 		"hp": 4,
 		"ability": null,
+		"speed": 2,
 		"moveset": [
 			[
 				"Miecz",
@@ -52,6 +55,7 @@
 		"recruit": 1,
 		"hp": 4,
 		"ability": null,
+		"speed": 3,
 		"moveset": [
 			[
 				"Miecz",
@@ -69,6 +73,7 @@
 		"recruit": 2,
 		"hp": 4,
 		"ability": "ostry_miecz",
+		"speed": 4,
 		"moveset": [
 			[
 				"Miecz"
@@ -84,6 +89,7 @@
 		"recruit": 2,
 		"hp": 4,
 		"ability": "ostra_strzala",
+		"speed": 4,
 		"moveset": [
 			[
 				"Luk"
@@ -99,6 +105,7 @@
 		"recruit": 2,
 		"hp": 5,
 		"ability": "odrzut",
+		"speed": 3,
 		"moveset": [
 			[
 				"Miecz",
@@ -116,6 +123,7 @@
 		"recruit": 2,
 		"hp": 5,
 		"ability": "ostry_miecz",
+		"speed": 4,
 		"moveset": [
 			[
 				"Miecz",
@@ -133,6 +141,7 @@
 		"recruit": 2,
 		"hp": 5,
 		"ability": "ostra_strzala",
+		"speed": 4,
 		"moveset": [
 			[
 				"Miecz",
@@ -150,6 +159,7 @@
 		"recruit": 3,
 		"hp": 6,
 		"ability": "pioropusz_triumfu",
+		"speed": 5,
 		"moveset": [
 			[
 				"Miecz",
@@ -167,6 +177,7 @@
 		"recruit": 3,
 		"hp": 5,
 		"ability": "adrenalina",
+		"speed": 5,
 		"moveset": [
 			[
 				"Miecz"
@@ -182,6 +193,7 @@
 		"recruit": 3,
 		"hp": 5,
 		"ability": "wielostrzalowiec",
+		"speed": 5,
 		"moveset": [
 			[
 				"Luk"
@@ -197,6 +209,7 @@
 		"recruit": 3,
 		"hp": 5,
 		"ability": "as_precyzji",
+		"speed": 5,
 		"moveset": [
 			[
 				"Luk"
@@ -212,6 +225,7 @@
 		"recruit": 3,
 		"hp": 6,
 		"ability": "ostry_miecz",
+		"speed": 4,
 		"moveset": [
 			[
 				"Miecz",
@@ -229,6 +243,7 @@
 		"recruit": 3,
 		"hp": 6,
 		"ability": "tarcza",
+		"speed": 4,
 		"moveset": [
 			[
 				"Miecz",
@@ -246,6 +261,7 @@
 		"recruit": 4,
 		"hp": 6,
 		"ability": "potega_wody",
+		"speed": 6,
 		"moveset": [
 			[
 				"Woda"
@@ -262,6 +278,7 @@
 		"recruit": 4,
 		"hp": 6,
 		"ability": "potega_ognia",
+		"speed": 6,
 		"moveset": [
 			[
 				"Ogien"
@@ -278,6 +295,7 @@
 		"recruit": 4,
 		"hp": 6,
 		"ability": "potega_ziemii",
+		"speed": 6,
 		"moveset": [
 			[
 				"Ziemia"
@@ -294,6 +312,7 @@
 		"recruit": 4,
 		"hp": 6,
 		"ability": "potega_wiatru",
+		"speed": 6,
 		"moveset": [
 			[
 				"Wiatr"
@@ -310,6 +329,7 @@
 		"recruit": 4,
 		"hp": 6,
 		"ability": "inwersja",
+		"speed": 6,
 		"moveset": [
 			[
 				"Miecz",
@@ -327,6 +347,7 @@
 		"recruit": 5,
 		"hp": 7,
 		"ability": "magiczna_aura",
+		"speed": 6,
 		"moveset": [
 			[
 				"Woda",
@@ -342,33 +363,71 @@
 			]
 		]
 	},
-	"malarz": {
-		"cards": 2,
-		"name": "Malarz",
+	"mag_wody_2": {
+		"cards": 4,
+		"name": "Mag Wody",
 		"recruit": 5,
-		"hp": 5,
-		"ability": "malarz",
+		"hp": 7,
+		"ability": "potega_wody",
+		"speed": 7,
 		"moveset": [
 			[
-				"Uniwersalny"
+				"Woda"
 			],
 			[
-				"Uniwersalny"
+				"Woda",
+				"Lanca"
 			]
 		]
 	},
-	"aktor": {
-		"cards": 2,
-		"name": "Aktor",
+	"mag_ognia_2": {
+		"cards": 4,
+		"name": "Mag Ognia",
 		"recruit": 5,
-		"hp": 5,
-		"ability": "mimika",
+		"hp": 7,
+		"ability": "potega_ognia",
+		"speed": 7,
 		"moveset": [
 			[
-				"Miecz"
+				"Ogien"
 			],
 			[
-				"Miecz"
+				"Ogien",
+				"Lanca"
+			]
+		]
+	},
+	"mag_ziemii_2": {
+		"cards": 4,
+		"name": "Mag Ziemii",
+		"recruit": 5,
+		"hp": 7,
+		"ability": "potega_ziemii",
+		"speed": 7,
+		"moveset": [
+			[
+				"Ziemia"
+			],
+			[
+				"Ziemia",
+				"Lanca"
+			]
+		]
+	},
+	"mag_wiatru_2": {
+		"cards": 4,
+		"name": "Mag Wiatru",
+		"recruit": 5,
+		"hp": 7,
+		"ability": "potega_wiatru",
+		"speed": 7,
+		"moveset": [
+			[
+				"Wiatr"
+			],
+			[
+				"Wiatr",
+				"Lanca"
 			]
 		]
 	}

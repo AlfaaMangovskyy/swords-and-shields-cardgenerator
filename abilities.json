@@ -13,11 +13,11 @@
     },
     "odrzut": {
         "name": "Odrzut",
-        "desc": "Ruchy kategorii Lancy\nodrzucają wrogów o 1 pole w\nkierunku uderzenia ruchu."
+        "desc": "Ruchy kategorii Lancy\nmają 2/6 szansy na wycofanie\ncelu z Pola Bitwy po trafieniu."
     },
     "as_precyzji": {
         "name": "As Precyzji",
-        "desc": "Ruchy kategorii Łuku mają o 1\nPunkt Celności więcej."
+        "desc": "Ruchy, które trafiają jednego\nprzeciwnika naraz, zadają\no 1 Punkt Obrażeń więcej."
     },
     "tarcza": {
         "name": "Tarcza",
@@ -25,46 +25,38 @@
     },
     "magiczna_aura": {
         "name": "Magiczna Aura",
-        "desc": "Ten wojownik jest odporny na\nefekty specjalne ruchów, przedmiotów i\numiejętności przeciwników."
+        "desc": "Ten wojownik jest odporny na\nefekty specjalne ruchów i\numiejętności przeciwników."
     },
     "pioropusz_triumfu": {
         "name": "Pióropusz Triumfu",
-        "desc": "Ten wojownik otrzymuje 1\nKartę Mocy za każdym razem,\ngdy wyeliminuje przeciwnika."
+        "desc": "Ten wojownik otrzymuje 1\nKartę Ataku za każdym razem,\ngdy wyeliminuje przeciwnika."
     },
     "inwersja": {
         "name": "Inwersja",
-        "desc": "Ten wojownik zamiast\notrzymywać Karty Słabości,\notrzymuje Karty Mocy i\nodwrotnie."
+        "desc": "Ten wojownik zamiast\notrzymywać Karty negatywne,\notrzymuje Karty pozytywne i\nodwrotnie."
     },
     "adrenalina": {
         "name": "Adrenalina",
-        "desc": "Gdy ten wojownik zostaje\nwysłany na pole bitwy,\njednorazowo otrzymuje 1\nKartę Mocy."
+        "desc": "Gdy ten wojownik zostaje\nwysłany na pole bitwy,\njednorazowo otrzymuje 1\nKartę Ataku."
     },
     "wielostrzalowiec": {
         "name": "Wielostrzałowiec",
         "desc": "Ruchy, które trafiają wiele\nprzeciwników naraz, zadają\no 1 Punkt Obrażeń więcej."
     },
-    "malarz": {
-        "name": "Malarz",
-        "desc": "Ten wojownik może kraść\nKarty Ruchu od przeciwników\ni może być wysłany do walki\nbez 2 Kart Ruchu."
-    },
-    "mimika": {
-        "name": "Mimika",
-        "desc": "Ten wojownik może wymienić\nwszystkie swoje Karty Ruchu i\nKarty Statusu z przeciwnikiem,\nktórego wyeliminował."
-    },
     "potega_wody": {
         "name": "Potęga Wody",
-        "desc": "Ruchy kategorii Wody zadają\no 1 Punkt Obrażeń więcej."
+        "desc": "Ten wojownik odzyskuje\nwszystkie punkty życia za\nkażdym razem, gdy wyeliminuje\nprzeciwnika."
     },
     "potega_ognia": {
         "name": "Potęga Ognia",
-        "desc": "Ruchy kategorii Ognia zadają\no 1 Punkt Obrażeń więcej."
+        "desc": "Ten wojownik otrzymuje 1\nKartę Ataku za każdym\nrazem, gdy wyeliminuje\nprzeciwnika."
     },
     "potega_wiatru": {
         "name": "Potęga Wiatru",
-        "desc": "Ruchy kategorii Wiatru zadają\no 1 Punkt Obrażeń więcej."
+        "desc": "Ten wojownik otrzymuje 1\nKartę Szybkości za każdym\nrazem, gdy wyeliminuje\nprzeciwnika."
     },
     "potega_ziemii": {
         "name": "Potęga Ziemii",
-        "desc": "Ruchy kategorii Ziemii zadają\no 1 Punkt Obrażeń więcej."
+        "desc": "Ten wojownik otrzymuje 1\nKartę Obrony za każdym\nrazem, gdy wyeliminuje\nprzeciwnika."
     }
 }

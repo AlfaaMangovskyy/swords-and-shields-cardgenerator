@@ -1,0 +1,84 @@
+PRZYGOTOWANIE DO GRY
+
+Potasujcie 5 stosów Kart Wojowników i ułóżcie je w miejscu dostępnym dla wszystkich graczy.
+
+Następnie połóżcie stos wszystkich Kart Ruchów obok Kart Wojowników.
+
+Każdy gracz ma przypisaną wirtualną ilość punktów, zależnie od wybranego przez wszystkich graczy Poziomu Trudności:
+
+Klasyczny      - 10 Punktów
+Uproszczony    - 15 Punktów
+Trudny         - 8 Punktów
+Szybka Gra     - 5 Punktów
+
+Następnie gracze rekrutują swój oddział, dobierając karty ze stosów Kart Wojowników kosztem:
+
+Stos poziomu I    - 1 Punkt
+Stos poziomu II   - 2 Punkty
+Stos poziomu III  - 3 Punkty
+Stos poziomu IV   - 4 Punkty
+Stos poziomu V    - 5 Punktów
+
+Gracze mogą, lecz nie muszą wykorzystać wszystkich Punktów do rekrutacji swojego oddziału.
+
+Po zrekrutowaniu oddziału gracze dobierają po 2 Karty Ruchów na każdego zrekrutowanego Wojownika. Karty Ruchów dobrane dla danego Wojownika muszą być kompatybilne z Wojownikiem - symbol ich Kategorii musi zgadzać się z przynajmniej jednym symbolem z dowolnej linii na dole Karty Wojownika. Jeżeli jakaś Karta Ruchu zostanie już przypisana do danej linii, to druga Karta Ruchu musi być kompatybilna z drugą linią. Karty Ruchów przypisane do Wojownika nie mogą także swym poziomem przekraczać poziomu rekrutacji Wojownika.
+
+Niech wszyscy gracze dobiorą po tyle Kart Punktów Życia dla każdego Wojownika, ile wskazuje ilość Serc w prawym górnym rogu Karty Wojownika.
+
+Gracze nie mogą sobie nawzajem pokazywać swoich zrekrutowanych oddziałów.
+
+Karty Punktów Życia i Karty Ruchów przypisane do danego Wojownika powinny znajdować się pod Kartą Wojownika. Ułóżcie swoje Karty Wojowników rewersem do góry, wraz z przypisanymi do nich kartami, w rzędzie obok siebie. Ten rząd będzie nazywany Koszarami.
+
+PRZEBIEG ROZGRYWKI
+
+Gracze wykonują swoje tury jednocześnie.
+
+Na początku pierwszej tury wyślijcie na Pole Bitwy 2 Wojowników ze swoich Koszar. By to zrobić, ułóżcie ich obok siebie i odwróćcie ich Kartę Wojownika awersem do góry, tak by przeciwni gracze mogli ich zobaczyć.
+
+Podczas każdej tury obydwaj gracze patrzą na Karty Ruchów swoich Wojowników i wybierają jedną z nich na każdego swojego Wojownika. Następnie kładą ją za danym Wojownikiem, rewersem do góry.
+Alternatywnie, zamiast wybierać ruch, gracz może wycofać danego Wojownika do Koszar i na jego miejsce wysłać innego Wojownika. Wycofany wojownik traci wszystkie karty modyfikacji (Karty inne niż Karty Ruchów i Karty Punktów Życia).
+
+Następnie, gdy każdy Wojownik ma już wybrany ruch, ruchy są wykonywane w kolejności od najszybszego do najwolniejszego Wojownika. Szybkość wojownika jest wyznaczona przez ilość ikonek Skrzydeł w prawym górnym rogu Karty Wojownika.
+
+Niektóre ruchy mogą być wykonywane priorytetowo, nie zważając na Szybkość Wojownika. Jest to wtedy zapisane na Karcie Ruchu.
+
+Jeżeli dwóch lub więcej Wojowników ma identyczną Szybkość, to rzućcie kostką:
+
+2 Wojowników: Liczby Parzyste  |  Liczby Nieparzyste
+3 Wojowników: 1 i 2  |  3 i 4  |  5 i 6
+4 Wojowników: 1  |  2  |  3  |  4 (inne cyfry: rzućcie jeszcze raz)
+
+Ten Wojownik, na którego wskaże Kostka, rusza się pierwszy. Jeżeli jest więcej niż 2 pary Wojowników o identycznej Szybkości, powtarzajcie rzuty kostką dla pozostałych Wojowników.
+
+Wykonany ruch może, lecz nie musi zadawać obrażeń przeciwnikom.
+Ruch może zostać użyty na jednym lub wielu wojownikach, zależnie od ilości ikonek Kart na Karcie Ruchu:
+
+0 Kart: Ruch nie musi wybierać celu - posiada Efekty Specjalne dotyczące używającego go Wojownika.
+1 Karta: Ruch trafia w jednego, dowolnego Wojownika.
+2 Karty: Ruch trafia w obydwóch Wojowników przeciwnika.
+3 Karty: Ruch trafia wszystkich Wojowników na Polu Bitwy, oprócz Wojownika, który użył ten Ruch.
+
+Każdy trafiony Wojownik otrzymuje tyle Punktów Obrażeń, ile wskazuje ilość ikonek Obrażeń w prawym dolnym rogu Karty Ruchu. Ilość zadanych Punktów Obrażeń może być zmodyfikowana przez Karty Mocy, Karty Obrony, Karty Braku Mocy, Karty Braku Obrony, Karty Statusu, Efekty Specjalne Ruchu oraz Umiejętności Wojowników, jednak każdy ruch, który zadaje Obrażenia, ale jest osłabiony przez owe modyfikatory, musi zadać przynajmniej 1 Punkt Obrażeń.
+
+Obróccie tyle Kart Punktów Życia trafionych Wojowników rewersem do góry, ile obrażeń dani Wojownicy otrzymali.
+
+Sprawdźcie i zastosujcie Efekty Specjalne Ruchu. Jeżeli na Karcie Ruchu jest napisane np. "X/6 szans na ...", oznacza to, że trzeba rzucić Kostką - jeżeli liczba jest mniejsza lub równa X, należy zastosować Efekt Specjalny.
+Istnieje wiele różnych Efektów Specjalnych:
+
+Paraliżowanie Przeciwnika - dołóż kartę Statusu Paraliżu pod Karty trafionego Wojownika, o ile nie posiada on innych Kart Statusu. Paraliż sprawia, że dany Wojownik ma 2/6 szansy na niewykonanie swojego wybranego Ruchu, tym samym tracąc turę.
+
+Zatrucie Przeciwnika - dołóż kartę Statusu Zatrucia pod Karty trafionego Wojownika, o ile nie posiada on innych Kart Statusu.
+Zatrucie sprawia, że dany Wojownik otrzymuje 1 Punkt Obrażeń pod koniec każdej tury.
+
+Oparzenie Przeciwnika - dołóż kartę Statusu Oparzenia pod Karty trafionego Wojownika, o ile nie posiada on innych Kart Statusu. Oparzenie sprawia, że ruchy używane przez danego Wojownika zadają 50% mniej Punktów Obrażeń, zaokrąglając w górę.
+Otrzymanie Karty Mocy - dołóż Kartę Mocy (albo usuń Kartę Braku Mocy, o ile dany Wojownik ją posiada) pod danego Wojownika, o ile posiada on ich mniej niż 3. Każda Karta Mocy zwiększa ilość Punktów Obrażeń zadawanych przez Ruchy tego Wojownika o 1.
+Otrzymanie Karty Braku Mocy - dołóż Kartę Braku Mocy (albo usuń Kartę Mocy, o ile dany Wojownik ją posiada) pod danego Wojownika, o ile posiada on ich mniej niż 3. Każda Karta Braku Mocy zmniejsza ilość Punktów Obrażeń zadawanych przez Ruchy tego Wojownika o 1.
+Otrzymywanie Karty Obrony - dołóż Kartę Obrony (albo usuń Kartę Braku Obrony, o ile dany Wojownik ją posiada) pod danego Wojownika, o ile posiada on ich mniej niż 3. Każda Karta Obrony zmniejsza ilość Punktów Obrażeń otrzymywanych przez tego Wojownika od ruchów przeciwnika o 1.
+Otrzymywanie Karty Braku Obrony - dołóż Kartę Braku Obrony (albo usuń Kartę Obrony, o ile dany Wojownik ją posiada) pod danego Wojownika, o ile posiada on ich mniej niż 3. Każda Karta Braku Obrony zwiększa ilość Punktów Obrażeń otrzymywanych przez tego Wojownika od ruchów przeciwnika o 1.
+Otrzymywanie Karty Szybkości - dołóż Kartę Szybkości (albo usuń Kartę Braku Szybkości, o ile dany Wojownik ją posiada) pod danego Wojownika, o ile posiada on ich mniej niż 3. Każda Karta Szybkości zwiększa Szybkość Wojownika o 1.
+Otrzymywanie Karty Braku Szybkości - dołóż Kartę Braku Szybkości (albo usuń Kartę Szybkości, o ile dany Wojownik ją posiada) pod danego Wojownika, o ile posiada on ich mniej niż 3. Każda Karta Szybkości zmniejsza Szybkość Wojownika o 1.
+
+Jeżeli Wojownik nie ma już żadnych Punktów Życia (wszystkie jego Karty Punktów Życia są ułożone rewersem do góry), to zostaje Wyeliminowany. Wtedy wszystkie jego karty trafiają na korespondujące im stosy.
+
+Pod koniec każdej tury, jeżeli gracz ma mniej niż 2 Wojowników na Polu Bitwy i ma jeszcze Wojowników w Koszarach, to może wysłać dowolnego ze swoich Wojowników na Pole Bitwy, przyznając mu odpowiednią ilość Kart Punktów Życia.
+Gra kończy się, gdy wszyscy Wojownicy z oddziału któregokolwiek gracza zostaną Wyeliminowani. Zwycięzcą zostaje przeciwnik gracza, którego oddział został Wyeliminowany.
